@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xandercovert
 
-Software Engineer @ torch.io
+Sr. Analytics Engineer @ torch.io
 
 <!---
 xandercovert/xandercovert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
